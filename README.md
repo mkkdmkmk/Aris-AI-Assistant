@@ -10,15 +10,7 @@ The project explores how an AI assistant can go beyond a basic chat interface an
 
 ## My Role
 
-Senior Product Designer
-
-- UX/UI Design
-- Product concept
-- User flows
-- Interaction design
-- Visual design
-- Responsive design
-- AI-assisted prototyping
+AI Product Builder | Design Engineer | AI-Assisted Developer
 
 ## Key Features
 
